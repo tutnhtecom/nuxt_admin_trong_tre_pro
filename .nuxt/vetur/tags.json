@@ -26,9 +26,6 @@
   "ReportUserReport": {
     "description": "Auto imported from components/Report/UserReport.vue"
   },
-  "IconsRightSvg": {
-    "description": "Auto imported from components/icons/RightSvg.vue"
-  },
   "ButtonAdd": {
     "description": "Auto imported from components/button/ButtonAdd.vue"
   },
@@ -40,9 +37,6 @@
   },
   "ButtonWeb": {
     "description": "Auto imported from components/button/ButtonWeb.vue"
-  },
-  "InputFieldSuneditor": {
-    "description": "Auto imported from components/inputField/Suneditor.vue"
   },
   "CardItem": {
     "description": "Auto imported from components/card/CardItem.vue"
@@ -65,8 +59,14 @@
   "CardTeacherTrainingUsers": {
     "description": "Auto imported from components/card/CardTeacherTrainingUsers.vue"
   },
+  "InputFieldSuneditor": {
+    "description": "Auto imported from components/inputField/Suneditor.vue"
+  },
   "ServiceDetailServiceInfo": {
     "description": "Auto imported from components/service/DetailServiceInfo.vue"
+  },
+  "IconsRightSvg": {
+    "description": "Auto imported from components/icons/RightSvg.vue"
   },
   "TitleHeader": {
     "description": "Auto imported from components/title/TitleHeader.vue"
